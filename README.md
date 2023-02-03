@@ -1,4 +1,4 @@
-﻿**THINNING IN RELATION TO STAND COMPOSITION, AGE AND SPECIES EFFECTS  ON DBH OF TREES** 
+﻿# THINNING IN RELATION TO STAND COMPOSITION, AGE AND SPECIES EFFECTS  ON DBH OF TREES 
 
 The mixture  of oak  and pines is of considerable  importance  and would become more important under climate  change, therefore  the performance  and increase  in DBH under different  stand composition  and age when thinned  are therefore being  assessed. 
 
@@ -32,7 +32,7 @@ Dobrowolska D (2006) Oak natural  regeneration  and conversion  processes in mix
 
 **THE FLOW CHART TO ASSESS THE TYPE  OF THINNING ON THE STAND** 
 
-START ![](Aspose.Words.bd051007-50b7-48a3-9fc3-4c019579e55c.001.png)
+START ![](image_1.png)
 
 READING OF AVERAGE DBH 
 
@@ -58,7 +58,7 @@ END
 
 **FLOWCHART 2, TO READ DATA AND CALCULATE FOR DBH CHANGE** 
 
-START ![](Aspose.Words.bd051007-50b7-48a3-9fc3-4c019579e55c.002.png)
+START ![](image_2.png)
 
 READ DATA FOR PINE,OAK IN BOTH MIXED AND PURE 
 
