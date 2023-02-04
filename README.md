@@ -34,40 +34,8 @@ Dobrowolska D (2006) Oak natural  regeneration  and conversion  processes in mix
 
 START ![](image_1.png)
 
-READING OF AVERAGE DBH 
-
-`                                      `F  O   R    T  R  E  E  S   R  E  M    O  V   E  D                                                       
-
-DURING THINNING AND REMAINING TREES 
-
-THINNING RATIO = 
-
-AVERAGE DBH OF REMOVED         TREES/AVERAGE DBH OF REMAINING TREES 
-
-THINNING RATIO==1.0 
-
-FALSE 
-
-TRUE 
-
-LOW  
-
-PERFECT THINNING  THINNING 
-
-END 
 
 **FLOWCHART 2, TO READ DATA AND CALCULATE FOR DBH CHANGE** 
 
 START ![](image_2.png)
 
-READ DATA FOR PINE,OAK IN BOTH MIXED AND PURE 
-
-STAND 
-
-CALCULATE AVERAGE DBH FOR PRE\_THINNED&POST\_THINNED 
-
-SUBTRACT PRE\_THINNED FROM POST\_THINNED FOR ALL STANDS 
-
-(DBH)            DISPLAY RESULTS 
-
-END 
