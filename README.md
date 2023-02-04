@@ -32,10 +32,10 @@ Dobrowolska D (2006) Oak natural  regeneration  and conversion  processes in mix
 
 **THE FLOW CHART TO ASSESS THE TYPE  OF THINNING ON THE STAND** 
 
-START ![](image_1.png)
+ ![](image_1.png)
 
 
 **FLOWCHART 2, TO READ DATA AND CALCULATE FOR DBH CHANGE** 
 
-START ![](image_2.png)
+ ![](image_2.png)
 
